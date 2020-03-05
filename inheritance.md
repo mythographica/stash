@@ -317,6 +317,8 @@ PS 2:
 Exported from [Medium](https://medium.com) on February 25, 2020.
 [Canonical link](https://medium.com/@went.out/javascript-prototype-inheritance-point-of-view-from-boring-nerd-9c7924afc9fc) on October 9, 2019.
 
+PS 3:
+The other link on [dev.to](https://dev.to/wentout/inheritance-in-javascript-factory-of-constructors-with-prototype-chain-point-of-view-from-boring-nerd-2ddb)
 
 
 
